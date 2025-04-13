@@ -54,8 +54,10 @@ Access the application via
     http://localhost/coffeeblend-online-coffee-store/
 
 🤝 Contributing
+
 Contributions are welcome! If you have suggestions for improvements or encounter any issues, please open an issue or submit a pull request.
 
 📄 License
+
 This project is licensed under the Apache-2.0 License.
 
