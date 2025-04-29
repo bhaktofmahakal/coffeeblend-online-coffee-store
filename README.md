@@ -26,11 +26,33 @@
 
 ## 📁 Project Structure
 
-    coffeeblend-online-coffee-store/ ├── admin-panel/ # Admin dashboard files ├── auth/ # Authentication scripts ├── booking/ # Booking and order management ├── config/ # Configuration files ├── css/ # Stylesheets ├── fonts/ # Font files ├── images/ # Image assets ├── includes/ # Reusable components (header, footer, etc.) ├── js/ # JavaScript files ├── products/ # Product management ├── reviews/ # Customer reviews ├── scss/ # SCSS files ├── users/ # User management ├── 404.php # Custom 404 error page ├── about.php # About page ├── contact.php # Contact form page ├── index.php # Main landing page ├── menu.php # Menu page ├── services.php # Services offered ├── LICENSE # License information └── README.md # Project documentation
+    coffeeblend-online-coffee-store/ 
+    ├── admin-panel/ # Admin dashboard files ├── auth/ # Authentication scripts ├── booking/ # Booking and order management ├── config/ # Configuration files ├── css/ # Stylesheets ├── fonts/ # Font files ├── images/ # Image assets ├── includes/ # Reusable components (header, footer, etc.) ├── js/ # JavaScript files ├── products/ # Product management ├── reviews/ # Customer reviews ├── scss/ # SCSS files ├── users/ # User management ├── 404.php # Custom 404 error page ├── about.php # About page ├── contact.php # Contact form page ├── index.php # Main landing page ├── menu.php # Menu page ├── services.php # Services offered ├── LICENSE # License information └── README.md # Project documentation
 
-bash
-Copy
-Edit
+## 📸 Screenshots
+
+### 🏠 Home Page  
+![Home](image/homepage.png)
+
+### 🔐 Login Page  
+![Login](image/login.png)
+
+### 📝 Register Page  
+![Register](image/register.png)
+
+### ℹ️ About Page  
+![About](image/about.png)
+
+### 📞 Contact Page  
+![Contact](image/contact.png)
+
+### 🛍️ Menu Page  
+![Menu](image/menu.png)
+
+## 📅 Book a Table
+![Booking](image/book.png)
+
+
 
 ## 🚀 Installation
 
