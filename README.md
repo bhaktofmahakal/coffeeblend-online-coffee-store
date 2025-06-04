@@ -45,6 +45,9 @@
 
 ## 📁 Project Structure
 
+<details>
+<summary>Click to view</summary>
+  
     coffeeblend-online-coffee-store/
     ├── admin-panel/       # Admin dashboard files
     ├── auth/              # Authentication logic
