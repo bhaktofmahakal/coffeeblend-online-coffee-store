@@ -75,19 +75,21 @@
 
 ---
 
+
 ## 📸 Screenshots
 
-| 🏠 Home Page | 🔐 Login Page | 📝 Register Page |
-|-------------|---------------|------------------|
+| 🏠 **Home Page** | 🔐 **Login Page** | 📝 **Register Page** |
+|------------------|-------------------|----------------------|
 | ![Home](image/homepage.png) | ![Login](image/login.png) | ![Register](image/register.png) |
 
-| ℹ️ About Page | 📞 Contact Page | 🛍️ Menu Page |
-|---------------|----------------|----------------|
+| ℹ️ **About Page** | 📞 **Contact Page** | 🛍️ **Menu Page** |
+|-------------------|---------------------|--------------------|
 | ![About](image/about.png) | ![Contact](image/contact.png) | ![Menu](image/menu.png) |
 
-| 📅 Booking Page | 📅 Orders Page |
-|-----------------||-----------------
-| ![Booking](image/booking.png)|![Orders](image/orders.png)|
+| 📅 **Booking Page** | 📦 **Orders Page** | 🛒 **Cart Page** |
+|---------------------|--------------------|------------------|
+| ![Booking](image/booking.png) | ![Orders](image/orders.png) | ![Cart](image/cart.png) |
+
 
 ---
 
