@@ -45,31 +45,30 @@
 
 ## 📁 Project Structure
 
-```bash
-coffeeblend-online-coffee-store/
-├── admin-panel/       # Admin dashboard files
-├── auth/              # Authentication logic
-├── booking/           # Table booking logic
-├── config/            # DB configuration
-├── css/               # Stylesheets
-├── fonts/             # Fonts
-├── images/            # All image assets
-├── includes/          # Header, footer, reusable parts
-├── js/                # JavaScript files
-├── products/          # Product management
-├── reviews/           # Customer review logic
-├── scss/              # SCSS styling
-├── users/             # User management
-├── 404.php            # Custom error page
-├── about.php          # About section
-├── contact.php        # Contact page
-├── index.php          # Landing page
-├── menu.php           # Product catalog
-├── services.php       # Services offered
-├── LICENSE            # Apache-2.0 License
-└── README.md          # Project documentation
+    coffeeblend-online-coffee-store/
+    ├── admin-panel/       # Admin dashboard files
+    ├── auth/              # Authentication logic
+    ├── booking/           # Table booking logic
+    ├── config/            # DB configuration
+    ├── css/               # Stylesheets
+    ├── fonts/             # Fonts
+    ├── images/            # All image assets
+    ├── includes/          # Header, footer, reusable parts
+    ├── js/                # JavaScript files
+    ├── products/          # Product management
+    ├── reviews/           # Customer review logic
+    ├── scss/              # SCSS styling
+    ├── users/             # User management
+    ├── 404.php            # Custom error page
+    ├── about.php          # About section
+    ├── contact.php        # Contact page
+    ├── index.php          # Landing page
+    ├── menu.php           # Product catalog
+    ├── services.php       # Services offered
+    ├── LICENSE            # Apache-2.0 License
+    └── README.md          # Project documentation
 
-
+---
 
 ## 📸 Screenshots
 
@@ -85,59 +84,65 @@ coffeeblend-online-coffee-store/
 |-----------------|
 | ![Booking](image/book.png) |
 
-
+---
 
 🚀 Installation & Setup
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/bhaktofmahakal/coffeeblend-online-coffee-store.git
-cd coffeeblend-online-coffee-store
+    git clone https://github.com/bhaktofmahakal/coffeeblend-online-coffee-store.git
+    cd coffeeblend-online-coffee-store
 
 2️⃣ Configure Your Environment
 
-Make sure PHP, MySQL, and a web server (like XAMPP) are installed.
-
-Import the SQL database provided (e.g., coffeeblend.sql) into phpMyAdmin.
-
-Update config/config.php with your database credentials.
+    Make sure PHP, MySQL, and a web server (like XAMPP) are installed.
+    
+    Import the SQL database provided (e.g., coffeeblend.sql) into phpMyAdmin.
+    
+    Update config/config.php with your database credentials.
 
 3️⃣ Run the App
 
-Move the project folder into your server directory (e.g., htdocs in XAMPP):
+    Move the project folder into your server directory (e.g., htdocs in XAMPP):
+    
+    http://localhost/coffeeblend-online-coffee-store/
 
-http://localhost/coffeeblend-online-coffee-store/
+ ---   
 
 🤝 Contributing
 
-We welcome contributions from the community!
+    We welcome contributions from the community!
+    
+    # Step 1 – Fork the repo
+    
+    # Step 2 – Create your feature branch
+    
+    git checkout -b feature/amazing-feature
+    
+    # Step 3 – Commit your changes
+    
+    git commit -m "Add amazing feature"
+    
+    # Step 4 – Push to the branch
+    
+    git push origin feature/amazing-feature
+    
+    # Step 5 – Create a Pull Request
 
-# Step 1 – Fork the repo
-
-# Step 2 – Create your feature branch
-
-git checkout -b feature/amazing-feature
-
-# Step 3 – Commit your changes
-
-git commit -m "Add amazing feature"
-
-# Step 4 – Push to the branch
-
-git push origin feature/amazing-feature
-
-# Step 5 – Create a Pull Request
+---   
 
 📄 License
 
 This project is licensed under the Apache-2.0 License.
 
+---
+
 🙏 Acknowledgements
 
-Inspired by modern café e-commerce experiences
-
-Bootstrap for UI framework
-
-PHP & MySQL for backend operations
-
-Coffee Enthusiasts everywhere ☕
+    Inspired by modern café e-commerce experiences
+    
+    Bootstrap for UI framework
+    
+    PHP & MySQL for backend operations
+    
+    Coffee Enthusiasts everywhere ☕
