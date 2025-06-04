@@ -1,85 +1,156 @@
-# ☕ CoffeeBlend – Online Coffee Store
+<h1 align="center">☕ CoffeeBlend – Online Coffee Store</h1>
 
-**CoffeeBlend** is a modern, responsive e-commerce platform designed for coffee enthusiasts. Built with PHP and Bootstrap, it offers a seamless shopping experience for users to browse, select, and purchase their favorite coffee blends online.
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-8.0+-777BB4?logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/Bootstrap-5-blueviolet?logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/MySQL-Enabled-orange?logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Responsive-Design-brightgreen" alt="Responsive">
+  <img src="https://img.shields.io/badge/License-Apache%202.0-blue" alt="License">
+</p>
 
-## 🛍️ Features
+---
 
-    - **Responsive Design**: Optimized for desktops, tablets, and mobile devices.
-    - **Product Catalog**: Browse a variety of coffee products with detailed descriptions and images.
-    - **User Authentication**: Secure login and registration system for customers and administrators.
-    - **Shopping Cart**: Add products to the cart and proceed to checkout.
-    - **Order Management**: Track and manage orders efficiently.
-    - **Admin Panel**: Manage products, categories, orders, and users through an intuitive interface.
-    - **Customer Reviews**: Read and write reviews for products.
-    - **Contact Form**: Allow customers to get in touch with the store.
+## 🛍️ Overview
 
-## 🛠️ Technologies Used
+**CoffeeBlend** is a fully functional, responsive e-commerce web app built for coffee lovers. With a sleek design and smooth shopping experience, users can browse, buy, and book easily.
 
-    - **Frontend**:
-      - HTML5, CSS3, SCSS
-      - JavaScript, jQuery
-      - Bootstrap
+---
 
-    - **Backend**:
-      - PHP
-      - MySQL
+## ✨ Features
+
+- 📱 **Responsive Design** – Seamless on mobile, tablet & desktop  
+- 🛒 **Product Catalog** – View product details and images  
+- 🔐 **User Auth** – Register/Login for users and admins  
+- 🛍️ **Cart System** – Add to cart, update quantity, checkout  
+- 📦 **Order Management** – Admin can view and manage orders  
+- 🧑‍💼 **Admin Panel** – Manage products, users, and categories  
+- 🌟 **Customer Reviews** – Users can write product reviews  
+- 📬 **Contact Form** – Simple contact system for feedback  
+- 📅 **Booking System** – Table booking for coffee café  
+
+---
+
+## 🧰 Tech Stack
+
+### Frontend:
+- 🖌️ HTML5, CSS3, SCSS  
+- 💫 JavaScript, jQuery  
+- 🎨 Bootstrap 5  
+
+### Backend:
+- 🐘 PHP 8+  
+- 🗄️ MySQL  
+
+---
 
 ## 📁 Project Structure
 
-    coffeeblend-online-coffee-store/ 
-    ├── admin-panel/ # Admin dashboard files ├── auth/ # Authentication scripts ├── booking/ # Booking and order management ├── config/ # Configuration files ├── css/ # Stylesheets ├── fonts/ # Font files ├── images/ # Image assets ├── includes/ # Reusable components (header, footer, etc.) ├── js/ # JavaScript files ├── products/ # Product management ├── reviews/ # Customer reviews ├── scss/ # SCSS files ├── users/ # User management ├── 404.php # Custom 404 error page ├── about.php # About page ├── contact.php # Contact form page ├── index.php # Main landing page ├── menu.php # Menu page ├── services.php # Services offered ├── LICENSE # License information └── README.md # Project documentation
-
-## 📸 Screenshots
-
-### 🏠 Home Page  
-![Home](image/homepage.png)
-
-### 🔐 Login Page  
-![Login](image/login.png)
-
-### 📝 Register Page  
-![Register](image/register.png)
-
-### ℹ️ About Page  
-![About](image/about.png)
-
-### 📞 Contact Page  
-![Contact](image/contact.png)
-
-### 🛍️ Menu Page  
-![Menu](image/menu.png)
-
-## 📅 Book a Table
-![Booking](image/book.png)
+```bash
+coffeeblend-online-coffee-store/
+├── admin-panel/       # Admin dashboard files
+├── auth/              # Authentication logic
+├── booking/           # Table booking logic
+├── config/            # DB configuration
+├── css/               # Stylesheets
+├── fonts/             # Fonts
+├── images/            # All image assets
+├── includes/          # Header, footer, reusable parts
+├── js/                # JavaScript files
+├── products/          # Product management
+├── reviews/           # Customer review logic
+├── scss/              # SCSS styling
+├── users/             # User management
+├── 404.php            # Custom error page
+├── about.php          # About section
+├── contact.php        # Contact page
+├── index.php          # Landing page
+├── menu.php           # Product catalog
+├── services.php       # Services offered
+├── LICENSE            # Apache-2.0 License
+└── README.md          # Project documentation
 
 
 
-## 🚀 Installation
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/bhaktofmahakal/coffeeblend-online-coffee-store.git
-2.Set Up the Environment:
+📸 Screenshots
 
-Ensure you have PHP and MySQL installed.
+🏠 Home Page
 
-Setup the  SQL file into your MySQL database.
 
-Update the config/config.php file with your database credentials.
+🔐 Login Page
 
-3.Run the Application:
 
-Place the project folder in your server's root directory (e.g., htdocs for XAMPP).
+📝 Register Page
 
-Access the application via
 
-    http://localhost/coffeeblend-online-coffee-store/
+ℹ️ About Page
+
+
+📞 Contact Page
+
+
+🛍️ Menu Page
+
+
+📅 Book a Table
+
+
+
+
+
+
+
+🚀 Installation & Setup
+
+1️⃣ Clone the Repository
+
+git clone https://github.com/bhaktofmahakal/coffeeblend-online-coffee-store.git
+cd coffeeblend-online-coffee-store
+
+2️⃣ Configure Your Environment
+
+Make sure PHP, MySQL, and a web server (like XAMPP) are installed.
+
+Import the SQL database provided (e.g., coffeeblend.sql) into phpMyAdmin.
+
+Update config/config.php with your database credentials.
+
+3️⃣ Run the App
+
+Move the project folder into your server directory (e.g., htdocs in XAMPP):
+
+http://localhost/coffeeblend-online-coffee-store/
 
 🤝 Contributing
 
-Contributions are welcome! If you have suggestions for improvements or encounter any issues, please open an issue or submit a pull request.
+We welcome contributions from the community!
+
+# Step 1 – Fork the repo
+
+# Step 2 – Create your feature branch
+
+git checkout -b feature/amazing-feature
+
+# Step 3 – Commit your changes
+
+git commit -m "Add amazing feature"
+
+# Step 4 – Push to the branch
+
+git push origin feature/amazing-feature
+
+# Step 5 – Create a Pull Request
 
 📄 License
 
 This project is licensed under the Apache-2.0 License.
 
+🙏 Acknowledgements
+
+Inspired by modern café e-commerce experiences
+
+Bootstrap for UI framework
+
+PHP & MySQL for backend operations
+
+Coffee Enthusiasts everywhere ☕
