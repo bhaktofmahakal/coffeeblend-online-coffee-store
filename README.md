@@ -71,6 +71,8 @@
     ├── LICENSE            # Apache-2.0 License
     └── README.md          # Project documentation
 
+</details>
+
 ---
 
 ## 📸 Screenshots
@@ -83,9 +85,9 @@
 |---------------|----------------|----------------|
 | ![About](image/about.png) | ![Contact](image/contact.png) | ![Menu](image/menu.png) |
 
-| 📅 Booking Page |
-|-----------------|
-| ![Booking](image/book.png) |
+| 📅 Booking Page | 📅 Booking Page |
+|-----------------||-----------------
+| ![Booking](image/book.png)|![Booking](image/book.png)|
 
 ---
 
