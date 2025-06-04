@@ -85,9 +85,9 @@
 |---------------|----------------|----------------|
 | ![About](image/about.png) | ![Contact](image/contact.png) | ![Menu](image/menu.png) |
 
-| 📅 Booking Page | 📅 Booking Page |
+| 📅 Booking Page | 📅 Orders Page |
 |-----------------||-----------------
-| ![Booking](image/book.png)|![Booking](image/book.png)|
+| ![Booking](image/booking.png)|![Orders](image/orders.png)|
 
 ---
 
