@@ -71,32 +71,19 @@ coffeeblend-online-coffee-store/
 
 
 
+## 📸 Screenshots
 
-📸 Screenshots
+| 🏠 Home Page | 🔐 Login Page | 📝 Register Page |
+|-------------|---------------|------------------|
+| ![Home](image/homepage.png) | ![Login](image/login.png) | ![Register](image/register.png) |
 
-🏠 Home Page
+| ℹ️ About Page | 📞 Contact Page | 🛍️ Menu Page |
+|---------------|----------------|----------------|
+| ![About](image/about.png) | ![Contact](image/contact.png) | ![Menu](image/menu.png) |
 
-
-🔐 Login Page
-
-
-📝 Register Page
-
-
-ℹ️ About Page
-
-
-📞 Contact Page
-
-
-🛍️ Menu Page
-
-
-📅 Book a Table
-
-
-
-
+| 📅 Booking Page |
+|-----------------|
+| ![Booking](image/book.png) |
 
 
 
