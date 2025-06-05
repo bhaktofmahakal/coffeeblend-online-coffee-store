@@ -95,6 +95,11 @@
 
 🚀 Installation & Setup
 
+<details>
+<summary>click to view</summary>
+
+---
+
 1️⃣ Clone the Repository
 
     git clone https://github.com/bhaktofmahakal/coffeeblend-online-coffee-store.git
@@ -136,6 +141,8 @@
     
     # Step 5 – Create a Pull Request
 
+</details>
+
 ---   
 
 📄 License
@@ -153,3 +160,7 @@ This project is licensed under the Apache-2.0 License.
     PHP & MySQL for backend operations
     
     Coffee Enthusiasts everywhere ☕
+
+   <p align="center">
+   <img src="https://img.shields.io/badge/Responsive-Design-brightgreen" alt="Responsive">
+   </p>
